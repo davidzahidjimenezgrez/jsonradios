@@ -2,14 +2,14 @@
     {
         "streams": [
             {
-                "playlist": ["http://69.162.113.232:9926/"],
+                "playlist": ["http://69.162.113.232:9926"],
                 "bitrate": 24,
                 "metaint": true,
                 "live": true,
                 "url_m3u": ""
             },
             {
-                "playlist": ["http://69.162.113.232:9926/"],
+                "playlist": ["http://69.162.113.232:9926"],
                 "bitrate": 128,
                 "metaint": true,
                 "live": true,
