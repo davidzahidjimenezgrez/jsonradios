@@ -1,0 +1,159 @@
+{"items": [
+    {
+        "streams": [
+            {
+                "playlist": ["http://50.22.219.97:16562"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://50.22.219.97:16562"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio Cristiana",
+        "logo": "https://raw.githubusercontent.com/davidzahidjimenezgrez/jsonradios/master/radial.jpg",
+        "time": "",
+        "title": "Cadena Radial Brillando"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://162.219.26.69:9300/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://162.219.26.69:9300/"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio Cristiana",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s204753q.png",
+        "time": "",
+        "title": "Adoración Radio"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://stm24.srvstm.com:25556/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://stm24.srvstm.com:25556/"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio Cristiana",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s250066q.png",
+        "time": "",
+        "title": "Adoración Radio"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["http://199.217.115.41:9920"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://199.217.115.41:9920"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio Cristiana",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s190050q.png",
+        "time": "",
+        "title": "Radio Cristian 92.7 Fm Stereo"
+    },
+        {
+        "streams": [
+            {
+                "playlist": ["http://212.83.135.226:10008"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://212.83.135.226:10008"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio Cristiana",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s248820q.png",
+        "time": "",
+        "title": "Radio Cristiana Getsemani"
+    },
+        {
+        "streams": [
+            {
+                "playlist": ["http://162.219.26.69:9328"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://162.219.26.69:9328"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio Cristiana",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s231391q.png",
+        "time": "",
+        "title": "Radio Juvenil Cristiana"
+    },
+	        {
+        "streams": [
+            {
+                "playlist": ["http://69.64.39.176:9790"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://69.64.39.176:9790"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio Cristiana",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s257973q.png",
+        "time": "",
+        "title": "Radio Cristiana Liberacion Celestial"
+    },
+	
+	
+  
+]}
