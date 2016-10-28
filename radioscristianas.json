@@ -24,6 +24,28 @@
     {
         "streams": [
             {
+                "playlist": ["http://50.22.219.37:34635"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://50.22.219.37:34635"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio Cristiana",
+        "logo": "https://radiocristiana.cl/wp-content/themes/radiocristiana/img/logo-footer.png",
+        "time": "",
+        "title": "Cristo Guía"
+    },
+    {
+        "streams": [
+            {
                 "playlist": ["http://162.219.26.69:9300/"],
                 "bitrate": 24,
                 "metaint": true,
@@ -154,6 +176,71 @@
         "title": "Radio Cristiana Liberacion Celestial"
     },
 	
-	
+	  {
+        "streams": [
+            {
+                "playlist": ["http://radio.radioiglesia.com:8066"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://radio.radioiglesia.com:8066"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio Cristiana",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s114771q.png",
+        "time": "",
+        "title": "Radio America"
+	},
+	  {
+        "streams": [
+            {
+                "playlist": ["http://cdn2.siscompnetwork.com:7002/stream"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://cdn2.siscompnetwork.com:7002/stream"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio Cristiana",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s13202q.png",
+        "time": "",
+        "title": "Radio Verdad"
+	},
+		  {
+        "streams": [
+            {
+                "playlist": ["http://peridot.streamguys.com:7350/live-2"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://peridot.streamguys.com:7350/live-2"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio Cristiana",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s114573q.png",
+        "time": "",
+        "title": "Super Cadena Cristiana"
+	},
   
 ]}
