@@ -2,6 +2,28 @@
     {
         "streams": [
             {
+                "playlist": ["http://streaming.shoutcast.com/CadenaRadialBrillando"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://streaming.shoutcast.com/CadenaRadialBrillando"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio Cristiana",
+        "logo": "https://raw.githubusercontent.com/davidzahidjimenezgrez/jsonradios/master/radial.jpg",
+        "time": "",
+        "title": "Cadena Radial Brillando"
+    },
+	  {
+        "streams": [
+            {
                 "playlist": ["http://50.22.219.97:16562"],
                 "bitrate": 24,
                 "metaint": true,
